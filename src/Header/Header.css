@@ -1,0 +1,10 @@
+.header-container {
+  padding: 7px;
+}
+.header-container a {
+  text-decoration: none;
+  margin-right: 10px;
+  font-size: 24px;
+  font-weight: 500;
+  color: #333;
+}
